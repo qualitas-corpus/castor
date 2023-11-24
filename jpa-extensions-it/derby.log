@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2010-01-02 22:25:38.877 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.1.3 - (648739): instance a816c00e-0125-f124-cd05-0000000824d0
+on database directory C:\src\castor\trunk\jpa-extensions-it\target\test  
+
+Database Class Loader started - derby.database.classpath=''
